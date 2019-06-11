@@ -1,6 +1,7 @@
 # coser-admin
 
-## Project setup
+前提需要node环境 mongoose哟
+## 项目安装
 ```
 yarn install
 ```
