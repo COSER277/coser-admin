@@ -21,7 +21,7 @@ app.use("/", express.static("public"));
 app.get("/api", async (req, res) => {
     res.send("The Api server is normal running...");
 });
-//=======================用户接口=============================
+//=======================管理接口=============================
 //所有
 app.get('/api/admin', async (req, res) => {
     const admin = await Admin.find()
