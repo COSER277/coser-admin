@@ -11,8 +11,8 @@
       </el-form-item>
       <el-form-item label="文章分类">
         <el-select v-model="article.category" placeholder="请选择分类">
-          <el-option label="前端" value="shanghai"></el-option>
-          <el-option label="前端" value="beijing"></el-option>
+          <el-option label="前端" value="前端"></el-option>
+          <el-option label="后端" value="后端"></el-option>
         </el-select>
       </el-form-item>
       <el-form-item label="文章标签">
