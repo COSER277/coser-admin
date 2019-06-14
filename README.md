@@ -36,9 +36,9 @@ bcrypt（密码加密）
 4. 等待安装完成 
 5. 输入： yarn serve 运行项目
 6。打开浏览器 http://localhost:8081/  （ 根据提示打开）
-!(https://images.gitee.com/uploads/images/2019/0611/132955_3aa214ab_2237344.jpeg "Snipaste_2019-06-11_13-14-12.jpg")
-!(https://images.gitee.com/uploads/images/2019/0611/133006_448237d5_2237344.jpeg "Snipaste_2019-06-11_13-15-20.jpg")
-!(https://images.gitee.com/uploads/images/2019/0611/133958_1ef2dde3_2237344.jpeg "Snipaste_2019-06-11_13-39-46.jpg")
+https://images.gitee.com/uploads/images/2019/0611/132955_3aa214ab_2237344.jpeg 
+!(https://images.gitee.com/uploads/images/2019/0611/133006_448237d5_2237344.jpeg )
+!(https://images.gitee.com/uploads/images/2019/0611/133958_1ef2dde3_2237344.jpeg )
 #### 参与贡献
 pp小白嘻嘻 
 
