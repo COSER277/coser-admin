@@ -19,8 +19,8 @@ Vue+NodeJs+ElementUi+Mongoose+mavon-editor
 
 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0611/134622_63c8f1a0_2237344.jpeg "Snipaste_2019-06-11_13-46-06.jpg")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0611/134529_c099c4b5_2237344.jpeg "Snipaste_2019-06-11_13-45-17.jpg")
+(https://images.gitee.com/uploads/images/2019/0611/134622_63c8f1a0_2237344.jpeg "Snipaste_2019-06-11_13-46-06.jpg")
+(https://images.gitee.com/uploads/images/2019/0611/134529_c099c4b5_2237344.jpeg "Snipaste_2019-06-11_13-45-17.jpg")
 
 
 
@@ -39,9 +39,9 @@ bcrypt（密码加密）
 4. 等待安装完成 
 5. 输入： yarn serve 运行项目
 6。打开浏览器 http://localhost:8081/  （ 根据提示打开）
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0611/132955_3aa214ab_2237344.jpeg "Snipaste_2019-06-11_13-14-12.jpg")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0611/133006_448237d5_2237344.jpeg "Snipaste_2019-06-11_13-15-20.jpg")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0611/133958_1ef2dde3_2237344.jpeg "Snipaste_2019-06-11_13-39-46.jpg")
+(https://images.gitee.com/uploads/images/2019/0611/132955_3aa214ab_2237344.jpeg "Snipaste_2019-06-11_13-14-12.jpg")
+(https://images.gitee.com/uploads/images/2019/0611/133006_448237d5_2237344.jpeg "Snipaste_2019-06-11_13-15-20.jpg")
+(https://images.gitee.com/uploads/images/2019/0611/133958_1ef2dde3_2237344.jpeg "Snipaste_2019-06-11_13-39-46.jpg")
 #### 参与贡献
 pp小白嘻嘻 
 
