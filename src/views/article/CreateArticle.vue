@@ -12,7 +12,6 @@
       <el-form-item label="文章分类">
         <el-select v-model="article.category" placeholder="请选择分类">
           <el-option v-for="item in categories" :label="item.name" :value="item.name" :key="item.value"></el-option>
-          
         </el-select>
       </el-form-item>
       <el-form-item label="文章标签">

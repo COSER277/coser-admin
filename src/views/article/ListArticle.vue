@@ -11,29 +11,29 @@
           </el-form>
         </template>
       </el-table-column>
-      <el-table-column label="日期" width="150">
+      <el-table-column label="日期" width="200">
         <template slot-scope="scope">
           <span>{{scope.row.time}}</span>
         </template>
       </el-table-column>
-      <el-table-column prop="tittle" label="文章标题" width="120"></el-table-column>
+      <el-table-column prop="tittle" label="文章标题" width="250"></el-table-column>
       <!-- <el-table-column prop="body" label="内容"></el-table-column> -->
-      <el-table-column label="分类">
+      <el-table-column label="分类" width="120">
         <template slot-scope="scope">
           <span>{{scope.row.category}}</span>
         </template>
       </el-table-column>
-      <el-table-column label="标签">
+      <el-table-column label="标签" width="140">
         <template slot-scope="scope">
           <el-tag type="danger">{{scope.row.tag}}</el-tag>
         </template>
       </el-table-column>
-      <el-table-column label="文章状态">
+      <el-table-column label="文章状态" width="120">
         <template slot-scope="scope">
           <el-tag :type="scope.row.status?'success':'danger'">{{scope.row.status?"发布中":"未发布"}}</el-tag>
         </template>
       </el-table-column>
-      <el-table-column label="评论权限">
+      <el-table-column label="评论权限" width="120"> 
         <template slot-scope="scope">
           <el-tag
             :type="scope.row.allowComment?'success':'danger'"
