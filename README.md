@@ -1,7 +1,11 @@
 # coser-admin
+web端+桌面应用端    （BS架构应用？？？？哈哈哈这个有待学习）
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0614/134751_a32dfd5c_2237344.jpeg "coser-admin web端 桌面应用端（electron)  后端nodejs+mongoose数据库.jpg")
 
 前提需要node环境 mongoose哟
+## 项目安装
 
+```
 # CoserAdmin
 
 #### 介绍
