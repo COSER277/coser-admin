@@ -63,6 +63,15 @@ export default {
         .catch(err => {
           this.$message.error("获取文章失败" + err);
         });
+          //获取分类
+      this.$http
+        .get("categories")
+        .then(res => {
+          this.categories = res.data;
+        })
+        .catch(err => {
+          this.$message.error("错了哦，获取文章列表失败" + err);
+        });
     },
     saveArticle(article) {
       this.$refs.article.validate(valid => {

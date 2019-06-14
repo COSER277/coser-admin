@@ -11,8 +11,8 @@
       </el-form-item>
       <el-form-item label="文章分类">
         <el-select v-model="article.category" placeholder="请选择分类">
-          <el-option label="前端" value="前端"></el-option>
-          <el-option label="后端" value="后端"></el-option>
+          <el-option v-for="item in categories" :label="item.name" :value="item.name" :key="item.value"></el-option>
+          
         </el-select>
       </el-form-item>
       <el-form-item label="文章标签">
@@ -47,6 +47,7 @@ export default {
   props: {},
   data() {
     return {
+      categories: [],
       article: {
         tittle: "",
         category: "",
@@ -96,7 +97,20 @@ export default {
       });
     }
   },
-  created() {},
+  created() {  
+    //获取分类
+      this.$http
+        .get("categories")
+        .then(res => {
+          // this.$message({
+          //   message: "恭喜你，获取文章列表成功",
+          //   type: "success"
+          // });
+          this.categories = res.data;
+        })
+        .catch(err => {
+          this.$message.error("错了哦，获取文章列表失败" + err);
+        });},
   mounted() {}
 };
 </script>

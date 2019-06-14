@@ -123,6 +123,7 @@ export default {
         .catch(err => {
           this.$message.error("错了哦，获取文章列表失败" + err);
         });
+        //获取分类
       this.$http
         .get("categories")
         .then(res => {
