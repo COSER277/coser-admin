@@ -19,8 +19,8 @@ Vue+NodeJs+ElementUi+Mongoose+mavon-editor
 
 
 
-(https://images.gitee.com/uploads/images/2019/0611/134622_63c8f1a0_2237344.jpeg "Snipaste_2019-06-11_13-46-06.jpg")
-(https://images.gitee.com/uploads/images/2019/0611/134529_c099c4b5_2237344.jpeg "Snipaste_2019-06-11_13-45-17.jpg")
+https://images.gitee.com/uploads/images/2019/0611/134622_63c8f1a0_2237344.jpeg "Snipaste_2019-06-11_13-46-06.jpg"
+https://images.gitee.com/uploads/images/2019/0611/134529_c099c4b5_2237344.jpeg "Snipaste_2019-06-11_13-45-17.jpg"
 
 
 
