@@ -18,12 +18,6 @@ Vue+NodeJs+ElementUi+Mongoose+mavon-editor
 (还有数据库教程没完善好 稍后完善)
 
 
-
-https://images.gitee.com/uploads/images/2019/0611/134622_63c8f1a0_2237344.jpeg "Snipaste_2019-06-11_13-46-06.jpg"
-https://images.gitee.com/uploads/images/2019/0611/134529_c099c4b5_2237344.jpeg "Snipaste_2019-06-11_13-45-17.jpg"
-
-
-
 Vue vuevue-router vuex 
 axios
 
