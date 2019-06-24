@@ -7,6 +7,7 @@ web端+桌面应用端    （BS架构应用？？？？哈哈哈这个有待学�
 
 ```
 # CoserAdmin
+https://images.gitee.com/uploads/images/2019/0614/140203_0b552c69_2237344.jpeg 
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0614/140203_0b552c69_2237344.jpeg )
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0614/140211_56ba4680_2237344.jpeg)
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0614/140224_09a8c553_2237344.jpeg )
